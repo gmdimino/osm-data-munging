@@ -8,4 +8,4 @@ Brooklyn, NY, United States
 
 I just moved my daughter into a small apartment here.  I know it's a densely packed area with lots of interesting features.
 
-### Cleaning up the data
+See the .ipynb file for the full report.
